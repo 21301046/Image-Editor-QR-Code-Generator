@@ -1,3 +1,7 @@
+## 🚀 **About This Project**
+
+The **Coffee Shop Website** is built to help coffee shop owners create an engaging online experience for their customers. This project can also be used as a learning resource for developers interested in mastering frontend development. Whether you're just starting or want to refine your skills, this project provides everything you need to get started.
+
 This project helps you to combine images in single image one below one and you can add welcome message to starting of the all images.
 
 
